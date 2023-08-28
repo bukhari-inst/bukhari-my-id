@@ -25,6 +25,10 @@
   color: #14b789 !important;
 }
 
+.text-secondary {
+  color: #535da1;
+}
+
 .hover\:bg-primary:hover {
   --tw-bg-opacity: 1;
   background-color: #14b789 !important;

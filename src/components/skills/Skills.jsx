@@ -63,13 +63,13 @@ const Skills = ({ darkMode }) => {
               <SkillBox
                 logo={<IoLogoNodejs />}
                 black={'white'}
-                white={'black'}
+                white={'secondary'}
                 skill={'Node Js'}
               />
               <SkillBox
                 logo={<SiMongodb />}
                 black={'white'}
-                white={'black'}
+                white={'secondary'}
                 skill={'MongoDB'}
               />
             </div>
@@ -83,7 +83,7 @@ const Skills = ({ darkMode }) => {
               <SkillBox
                 className=""
                 logo={<GrCode />}
-                black={'black'}
+                black={'secondary'}
                 white={'white'}
                 skill={'C++'}
               />

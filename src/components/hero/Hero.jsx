@@ -34,7 +34,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-100 sm:text-[.95rem]"
             >
-              Lorem ipsum dolor sit amet consectetur
+              I'm an Computer Science graduate.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">

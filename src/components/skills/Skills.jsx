@@ -104,7 +104,7 @@ const Skills = ({ darkMode }) => {
         <div
           data-aos="fade-up"
           data-aos-duration="1200"
-          className=" container m-auto flex items-center justify-center mt-8 gap-8 md:gap-5"
+          className=" container m-auto flex items-center justify-center mt-8 gap-8 md:gap-5 overflow-x-scroll"
         >
           <img
             className="w-[40px] h-[40px] md:w-[35px] md:h-[35px]"
